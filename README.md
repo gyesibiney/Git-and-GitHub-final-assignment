@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -Sales Analysis             |  -to perform further revenue calculations             | https://github.com/gyesibiney/Project-Alpha.git       |
+| 2 |  - Password Generator             |  - to generate passord and store in a dictionary            | https:// github.com/gyesibiney/Project-Beta.git      |
+| 3 |  -Patients Data Record Analysis              |  -Analyze patients data             | https://github.com/gyesibiney/Project-Gamma.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
